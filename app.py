@@ -13,9 +13,6 @@ from dotenv import load_dotenv
 from google.api_core.exceptions import ResourceExhausted
 
 
-# load_dotenv()
-# os.getenv("AIzaSyCYck4tuDt7SOWplu5AE8BBStsyw5QYH9s")
-# genai.configure(api_key=os.getenv("AIzaSyCYck4tuDt7SOWplu5AE8BBStsyw5QYH9s"))
 load_dotenv()
 os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
