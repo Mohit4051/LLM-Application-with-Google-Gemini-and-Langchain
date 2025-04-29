@@ -10,7 +10,7 @@ Query the documents using natural language processing
 Retrieve relevant content based on user queries
 
 # Requirements
-Python 3.x
+Python 3.x\\
 Google Gemini Pro account
 Required Python libraries:
 Streamlit
