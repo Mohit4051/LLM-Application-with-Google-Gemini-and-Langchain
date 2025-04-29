@@ -9,13 +9,16 @@ Store and index embeddings using FAISS for fast search
 Query the documents using natural language processing
 Retrieve relevant content based on user queries
 
-# Requirements
-Python 3.x\\
-Google Gemini Pro account
-Required Python libraries:
-Streamlit
-Langchain
-FAISS
-PyPDF2 (or any other PDF processing library)
-NumPy
-Pandas (optional for data handling)
+## Requirements
+
+- Python 3.x  
+- Google Gemini Pro account  
+
+### Required Python Libraries
+
+- streamlit  
+- langchain  
+- faiss  
+- PyPDF2 *(or any other PDF processing library)*  
+- numpy  
+- pandas *(optional for data handling)*
